@@ -18,7 +18,7 @@ theme = "hugo-minimalist-theme"
     avatar = "img/profile-image.png"
     header_background = "img/background.jpg"
     header_title = "Abolga Meet and Greet"
-    copyright = "Powered by [Hugo](http://gohugo.io)."
+    copyright = "Powered by abolgameetandgreet."
     custom_css = []
     custom_js  = []
 
@@ -38,5 +38,5 @@ theme = "hugo-minimalist-theme"
     behance   = ""
     dribbble  = ""
     instagram = ""
-    github    = "digitalcraftsman"
+    github    = "giftakari"
     gplus     = ""
