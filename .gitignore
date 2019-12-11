@@ -1,2 +1,8 @@
 public/
 node_modules/
+public/
+node_modules/
+.travis.yml
+deploy.js
+package.json
+package.-lock.jsonls
